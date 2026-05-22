@@ -1,2 +1,0 @@
-# PoC---CSRF-Token-Collector-Password-reset-unauthenticated-
-A Python Proof of Concept (PoC) to analyze timing side-channel vulnerabilities on password reset endpoints requiring CSRF tokens. It measures response latency to test if applications leak user existence during database or token processing operations, returning identical HTTP statuses but different handling times. Strictly for authorized testing.
